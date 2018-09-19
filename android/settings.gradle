@@ -1,0 +1,3 @@
+rootProject.name = 'MyBeerApp'
+
+include ':app'
